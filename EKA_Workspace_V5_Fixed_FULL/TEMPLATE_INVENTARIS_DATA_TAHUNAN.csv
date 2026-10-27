@@ -1,0 +1,5 @@
+﻿unit_bisnis,tahun,periode,kode_data,jenis_laporan,nama_file,sumber,status_pemeriksaan,catatan
+EKA,2023,tahunan,DATA-001,Laba rugi,Laba_Rugi_2023.xlsx,Finance,belum_diperiksa,"Contoh, bukan data nyata"
+EKA,2023,tahunan,DATA-002,Neraca,Neraca_2023.pdf,Finance,belum_diperiksa,"Contoh, bukan data nyata"
+EKA,2024,tahunan,DATA-003,Arus kas,Arus_Kas_2024.xlsx,Finance,belum_diperiksa,"Contoh, bukan data nyata"
+HOTEL,2025,q1,DATA-001,Laba rugi,Hotel_Laba_Rugi_Q1_2025.xlsx,Operasional Hotel,belum_diperiksa,"Contoh, bukan data nyata"
